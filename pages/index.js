@@ -21,3 +21,11 @@ export default function Home() {
     </div>
   )
 }
+
+export default function About() {
+  return (
+    <div className="container">
+      001
+    </div>
+  )
+}
